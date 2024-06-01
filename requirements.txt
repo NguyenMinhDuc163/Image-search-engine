@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+torchvision
+torchaudio
+qdrant_client
+pydantic
+matplotlib
+opencv-python
+requests
+streamlit
